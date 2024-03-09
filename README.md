@@ -1,4 +1,4 @@
-# Welcome to Aviv Shleyfman's (aka PocketGod) GitHub!
+# Hi! Im Aviv Shleyfman (aka PocketGod)
 
 Hi there! I'm Aviv - a passionate Full Stack Web Developer with proficiency in a wide range of technologies. I'm all about learning, collaboration, and bringing ideas to life through code.
 
