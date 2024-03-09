@@ -9,11 +9,11 @@ Hi there! I'm Aviv - a passionate Full Stack Web Developer with proficiency in a
 
 ## 📊
 
-![Aviv's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Aviv's GitHub stats](https://github-readme-stats.vercel.app/api?username=pocketGod&show_icons=true&theme=radical)
 
 ## 🔥
 
-![Aviv's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark)
+![Aviv's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pocketGod&theme=dark)
 
 ## 🛠️
 
@@ -22,7 +22,7 @@ Hi there! I'm Aviv - a passionate Full Stack Web Developer with proficiency in a
 
 ### 📈
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pocketGod&layout=compact)
 
 ## 🤝 
 
