@@ -1,4 +1,4 @@
-# Hi, Im Aviv Shleyfman (aka PocketGod)
+# Hi, Im Aviv Shleyfman (PocketGod)
 
 A passionate Full Stack Web Developer with proficiency in a wide range of technologies. I'm all about learning, collaboration, and bringing ideas to life through code.
 
